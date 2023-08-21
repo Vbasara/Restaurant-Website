@@ -1,4 +1,4 @@
-# Web Applications Class Final Project
+# Web Applications Class: Final Project
 
 ### Course: CIS-431
 
